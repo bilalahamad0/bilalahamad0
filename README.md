@@ -34,11 +34,11 @@
 
 ### Projects
 
-- **[California Live Layoff Monitoring Dashboard](https://github.com/bilalahamad0/warn)** — automated pipeline turning government WARN filings into real-time layoff intelligence &nbsp;·&nbsp; **[Live Dashboard ↗](https://bilalahamad0.github.io/warn/)**
-- **[Smart-Home IoT Media Caster](https://github.com/bilalahamad0/adhan-api)** — IoT orchestration for automated prayer-time notifications via Raspberry Pi + Android TV (ADB) &nbsp;·&nbsp; **[Live Dashboard ↗](https://bilalahamad0.github.io/adhan-api/dashboard.html)**
+- **[California Live Layoff Monitoring Dashboard](https://github.com/bilalahamad0/warn)** **[\[Live Dashboard ↗\]](https://bilalahamad0.github.io/warn/)** — automated pipeline turning government WARN filings into real-time layoff intelligence
+- **[Smart-Home IoT Media Caster](https://github.com/bilalahamad0/adhan-api)** **[\[Live Dashboard ↗\]](https://bilalahamad0.github.io/adhan-api/dashboard.html)** — IoT orchestration for automated prayer-time notifications via Raspberry Pi + Android TV (ADB)
 - **[Monthly Phone Bill Split & Autopay Automation](https://github.com/bilalahamad0/tmo)** — event-driven system automating T-Mobile family-plan bill parsing and cost splits
-- **[Adhan Caster Pro — Chrome Extension](https://github.com/bilalahamad0/adhan-ce)** — Manifest V3 extension that auto-pauses media across all tabs at prayer times
-- **[Portfolio — bilalahamad.com](https://github.com/bilalahamad0/profile)** — Next.js portfolio with glassmorphism design and live GitHub integration &nbsp;·&nbsp; **[Live Site ↗](https://bilalahamad.com)**
+- **[Adhan Caster Pro: Chrome Extension](https://github.com/bilalahamad0/adhan-ce)** — Manifest V3 extension that auto-pauses media across all tabs at prayer times
+- **[Portfolio: bilalahamad.com](https://github.com/bilalahamad0/profile)** **[\[Live Site ↗\]](https://bilalahamad.com)** — Next.js portfolio with glassmorphism design and live GitHub integration
 
 ### Currently Exploring
 
@@ -50,6 +50,5 @@
 
 <p align="center">
   <a href="https://github.com/bilalahamad0?tab=repositories"><img src="https://img.shields.io/github/stars/bilalahamad0?style=flat&logo=github&logoColor=white&label=Total%20Stars&labelColor=0d1117&color=0e75b6" alt="Total Stars"></a>
-  <a href="https://github.com/bilalahamad0?tab=followers"><img src="https://img.shields.io/github/followers/bilalahamad0?style=flat&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=0e75b6" alt="Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=bilalahamad0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
