@@ -53,6 +53,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalahamad0&show_icons=true&hide_border=true" alt="Bilal's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahamad0&layout=compact&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilalahamad0&theme=default" alt="Bilal's GitHub stats" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilalahamad0&theme=default" alt="Top languages" height="200">
 </p>
