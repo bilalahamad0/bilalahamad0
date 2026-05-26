@@ -37,7 +37,7 @@
 - **[California Live Layoff Monitoring Dashboard](https://github.com/bilalahamad0/warn)** **[\[Live Dashboard ↗\]](https://bilalahamad0.github.io/warn/)**<br>
   Automated pipeline turning government WARN filings into real-time layoff intelligence
 - **[Smart-Home IoT Media Caster](https://github.com/bilalahamad0/adhan-api)** **[\[Live Dashboard ↗\]](https://bilalahamad0.github.io/adhan-api/dashboard.html)**<br>
-  IoT orchestration for automated prayer-time notifications via Raspberry Pi + Android TV (ADB)
+  IoT orchestration for automated prayer-time notifications via Raspberry Pi + Google Nest Hub Display + Android TV (ADB)
 - **[Monthly Phone Bill Split & Autopay Automation](https://github.com/bilalahamad0/tmo)**<br>
   Event-driven system automating T-Mobile family-plan bill parsing and cost splits
 - **[Adhan Caster Pro: Chrome Extension](https://github.com/bilalahamad0/adhan-ce)**<br>
