@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/bilalahamad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://bilalahamad.com"><img src="https://img.shields.io/badge/Portfolio-bilalahamad.com-0A0A0A?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:bilal.ahamad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://bilalahamad.com"><img src="https://img.shields.io/endpoint?url=https://bilalahamad.com/api/visitors&style=flat&logo=googleanalytics&logoColor=white" alt="Site Visitors"></a>
 </p>
 
 ---
