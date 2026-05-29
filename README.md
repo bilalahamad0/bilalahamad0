@@ -35,14 +35,14 @@
 ### Projects
 
 - **[California Live Layoff Monitoring Dashboard](https://github.com/bilalahamad0/warn)** **[\[Live Dashboard ↗\]](https://bilalahamad0.github.io/warn/)**<br>
-  automated pipeline turning government WARN filings into real-time layoff intelligence
+  Automated pipeline turning government WARN filings into real-time layoff intelligence
 - **[Smart-Home IoT Media Caster](https://github.com/bilalahamad0/adhan-api)** **[\[Live Dashboard ↗\]](https://bilalahamad0.github.io/adhan-api/dashboard.html)**<br>
-  IoT orchestration for automated prayer-time notifications via Raspberry Pi + Android TV (ADB)
+  IoT orchestration for automated prayer-time notifications via Raspberry Pi + Google Nest Hub Display + Android TV (ADB)
 - **[Monthly Phone Bill Split & Autopay Automation](https://github.com/bilalahamad0/tmo)**<br>
-  event-driven system automating T-Mobile family-plan bill parsing and cost splits
+  Event-driven system automating T-Mobile family-plan bill parsing and cost splits
 - **[Adhan Caster Pro: Chrome Extension](https://github.com/bilalahamad0/adhan-ce)** **[\[Chrome Web Store ↗\]](https://chromewebstore.google.com/detail/jfjknglldcdminelckmmfdbnlikiogia?utm_source=item-share-cb)**<br>
   Manifest V3 extension that auto-pauses media across all tabs at prayer times
-- **[Portfolio: bilalahamad.com](https://github.com/bilalahamad0/profile)** **[\[Live Site ↗\]](https://bilalahamad.com)**<br>
+- **[Portfolio: bilalahamad.com](https://github.com/bilalahamad0/profile)** **[\[Live Site ↗\]](https://bilalahamad.com)** **<a href="https://bilalahamad.com"><img src="https://img.shields.io/endpoint?url=https://bilalahamad.com/api/visitors&style=flat&logo=googleanalytics&logoColor=white" alt="Site Visitors"></a>**<br>
   Next.js portfolio with glassmorphism design and live GitHub integration
 
 ### Currently Exploring
