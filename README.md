@@ -40,7 +40,7 @@
   IoT orchestration for automated prayer-time notifications via Raspberry Pi + Android TV (ADB)
 - **[Monthly Phone Bill Split & Autopay Automation](https://github.com/bilalahamad0/tmo)**<br>
   event-driven system automating T-Mobile family-plan bill parsing and cost splits
-- **[Adhan Caster Pro: Chrome Extension](https://github.com/bilalahamad0/adhan-ce)**<br>
+- **[Adhan Caster Pro: Chrome Extension](https://github.com/bilalahamad0/adhan-ce)** **[\[Chrome Web Store ↗\]](https://chromewebstore.google.com/detail/jfjknglldcdminelckmmfdbnlikiogia?utm_source=item-share-cb)**<br>
   Manifest V3 extension that auto-pauses media across all tabs at prayer times
 - **[Portfolio: bilalahamad.com](https://github.com/bilalahamad0/profile)** **[\[Live Site ↗\]](https://bilalahamad.com)**<br>
   Next.js portfolio with glassmorphism design and live GitHub integration
