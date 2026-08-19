@@ -38,12 +38,12 @@
   Automated pipeline turning WARN filings from 45 states + DC into real-time layoff intelligence — twice-daily updates, interactive charts, email alerts, and a public JSON API
 - **[Smart-Home IoT Media Caster](https://github.com/bilalahamad0/adhan-api)** **[\[Live Dashboard ↗\]](https://bilalahamad0.github.io/adhan-api/dashboard.html)**<br>
   AI-native IoT orchestration via Raspberry Pi + Google Nest Hub Display + Android TV (ADB), with a fully local Gemma 3 (Ollama) AI layer for status Q&A and self-diagnosis
-- **[Monthly Phone Bill Split & Autopay Automation](https://github.com/bilalahamad0/tmo)**<br>
-  Event-driven system automating T-Mobile family-plan bill parsing and cost splits
-- **[Adhan Caster Pro: Browser Extension](https://github.com/bilalahamad0/adhan-ce)** **[\[Chrome ↗\]](https://chromewebstore.google.com/detail/jfjknglldcdminelckmmfdbnlikiogia?utm_source=item-share-cb)** **[\[Firefox ↗\]](https://addons.mozilla.org/en-US/firefox/addon/adhan-caster-prayer-times/)** **[\[Edge ↗\]](https://microsoftedge.microsoft.com/addons/detail/adhan-caster-muslim-pray/kapmpaofgphfbkpkmhhiooafplhckblg)**<br>
+- **[Adhan Caster: Browser Extension](https://github.com/bilalahamad0/adhan-ce)** **[\[Chrome ↗\]](https://chromewebstore.google.com/detail/jfjknglldcdminelckmmfdbnlikiogia?utm_source=item-share-cb)** **[\[Firefox ↗\]](https://addons.mozilla.org/en-US/firefox/addon/adhan-caster-prayer-times/)** **[\[Edge ↗\]](https://microsoftedge.microsoft.com/addons/detail/adhan-caster-muslim-pray/kapmpaofgphfbkpkmhhiooafplhckblg)**<br>
   Manifest V3 extension for Chrome, Firefox &amp; Edge that auto-pauses media across all tabs at prayer times — plus prayer tracking and a full-screen focus mode
 - **[Portfolio: bilalahamad.com](https://github.com/bilalahamad0/profile)** **[\[Live Site ↗\]](https://bilalahamad.com)** **<a href="https://bilalahamad.com"><img src="https://img.shields.io/endpoint?url=https://bilalahamad.com/api/visitors&style=flat&logo=googleanalytics&logoColor=white" alt="Site Visitors"></a>**<br>
   Next.js 16 / React 19 portfolio with an MDX blog and a live AI development-metrics dashboard — built AI-natively end to end
+- **[Monthly Phone Bill Split & Autopay Automation](https://github.com/bilalahamad0/tmo)**<br>
+  Event-driven system automating T-Mobile family-plan bill parsing and cost splits
 
 ### Currently Exploring
 
